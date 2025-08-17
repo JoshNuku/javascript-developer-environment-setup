@@ -1,0 +1,10 @@
+Welcome to the JavaScript Developer Environment Setup!
+
+This installer will help you set up essential tools and packages for full-stack JS development,
+including Git, Node.js, VSCode, MongoDB, and popular npm packages.
+
+Please select the components you want to install in the next step.
+
+Make sure you have a stable internet connection, as the installer will download required software.
+
+Click Next to continue.
